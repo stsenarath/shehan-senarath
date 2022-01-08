@@ -613,7 +613,7 @@ section {
 }
 
 .resume .resume-item h4:hover {
-  color: #240fb3;
+  color: #240fb3 !important;
 }
 
 .resume .resume-item h5 {
