@@ -608,13 +608,16 @@ section {
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #f65555;
+  color: #007212;
   margin-bottom: 10px;
 }
-
-.resume .resume-item h4:hover {
-  color: #240fb3 !important;
+.color_change {
+  color: #f66767;
 }
+
+/*.resume .resume-item h4:hover {
+  color: #240fb3 !important;
+}*/
 
 .resume .resume-item h5 {
   font-size: 16px;
