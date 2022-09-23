@@ -537,6 +537,12 @@ section {
   min-height: 500px;
 }
 
+.about .pradeepa {
+  background: url("../img/pradeepa.jpg") center center no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+
 .about .vijitha {
   background: url("../img/vijitha.jpg") center center no-repeat;
   background-size: cover;
